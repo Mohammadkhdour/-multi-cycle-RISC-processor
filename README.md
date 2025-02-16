@@ -101,7 +101,7 @@ Ensure you have the following installed:
 
 ### 📂 Cloning the Repository
 ```sh
-git clone https://github.com/yourusername/Multi-Cycle-RISC-Processor.git
+git clone https://github.com/mohammadkhdour/Multi-Cycle-RISC-Processor.git
 cd Multi-Cycle-RISC-Processor
 ```
 
